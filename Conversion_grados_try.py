@@ -49,6 +49,7 @@ def FahrenheitCelsius(F):
     return (F - 32) * 5/9
 
 def main():
+    print ("papi estuvo aqui!")
     try:
         continuar=True
         T=0
