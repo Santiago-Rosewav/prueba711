@@ -49,6 +49,7 @@ def FahrenheitCelsius(F):
     return (F - 32) * 5/9
 
 def main():
+    print ("hello world")
     try:
         continuar=True
         T=0
