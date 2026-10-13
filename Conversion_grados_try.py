@@ -79,7 +79,7 @@ def main():
                     print(f"{T}°F = {FahrenheitCelsius(T)} °C")
                     parar()
                 elif opcion=='0':
-                    print("Bye bye")
+                    print("Bye bye bye")
                     continuar=False
                 else:
                     print("Seleccione una opción valida")
